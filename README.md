@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Final Year Project**
 
-- 👨‍💻 All of my projects are available at [https://devfolio.co/@Nitingavhane](https://devfolio.co/@Nitingavhane)
+- 👨‍💻 All of my projects are available at [here> @Nitingavhane](https://devfolio.co/@Nitingavhane)
 
 - 💬 Ask me about **Cyber Security**
 
