@@ -1,8 +1,6 @@
 [![MasterHead]( https://media.giphy.com/media/v4NTKF4egO82ISOYJk/giphy.gif)](https://nitin.vercel.app/)
 <h3 align="center">IT Engineer | Security Researcher from India</h3>
 
-<iframe src="https://giphy.com/embed/v4NTKF4egO82ISOYJk" width="480" height="206" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitingavhane&label=Profile%20views&color=0e75b6&style=flat" alt="nitingavhane" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nitingavhane_" target="blank"><img src="https://img.shields.io/twitter/follow/nitingavhane_?logo=twitter&style=for-the-badge" alt="nitingavhane_" /></a> </p>
