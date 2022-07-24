@@ -1,5 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/v4NTKF4egO82ISOYJk/giphy.gif)](https://nitin.vercel.app/)
-<h1 align="center">Hi 👋, I'm Nitin Gavhane</h1>
+[![MasterHead]( align="center" https://media.giphy.com/media/v4NTKF4egO82ISOYJk/giphy.gif)](https://nitin.vercel.app/)
 <h3 align="center">IT Engineer | Security Researcher from India</h3>
 
 <iframe src="https://giphy.com/embed/v4NTKF4egO82ISOYJk" width="480" height="206" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
