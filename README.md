@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/r47VMn51m54L0vpnph/giphy.gif" width="700" height="500">
+<img src="https://media.giphy.com/media/r47VMn51m54L0vpnph/giphy.gif" width="800" height="300">
 
 <h3 align="center">IT Engineer | Security Researcher from India</h3>
 
