@@ -1,6 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
-[![MasterHead]( https://media.giphy.com/media/RKQgWzYrVkAIEQoosc/giphy-downsized-large.gif )](https://nitin.vercel.app/)
+[![MasterHead](https://media.giphy.com/media/RKQgWzYrVkAIEQoosc/giphy.gif)](https://nitin.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Nitin Gavhane</h1>
 
