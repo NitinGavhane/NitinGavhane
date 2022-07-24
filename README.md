@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/f5kjZZZhcbpyPJTeEH/giphy-downsized-large.gif)](https://nitin.vercel.app/)
+[![MasterHead]( https://media.giphy.com/media/f5kjZZZhcbpyPJTeEH/giphy-downsized-large.gif )](https://nitin.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Nitin Gavhane</h1>
 
