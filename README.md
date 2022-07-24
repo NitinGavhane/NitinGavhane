@@ -7,7 +7,7 @@
 
 - 👯 I made project on [TimeKeeper - Android Based Application](https://github.com/NitinGavhane/Diploma-Projects)
 
-- 🌱 I’m currently learning **Java,P**
+- 🌱 I’m currently learning **Java,OPP,DSA**
 
 - 🔭 I’m currently working on **Trinity College Projects**
 
