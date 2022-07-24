@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Gavhane</h1>
-<h3 align="center">A IT Engineer as well as Security Researcher from India</h3>
+<h3 align="center">IT Engineer | Security Researcher from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
