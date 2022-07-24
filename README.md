@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **gavhanenitin911@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/NitinGavhane/Resume/blob/main/Resume-Nitin-Gavhane.pdf](https://github.com/NitinGavhane/Resume/blob/main/Resume-Nitin-Gavhane.pdf)
+- 📄 Know about my experiences [https://github.com/NitinGavhane/Resume/blob/main/Resume-Nitin-Gavhane.pdf](Resume-Nitin-Gavhane.pdf)
 
 - ⚡ Fun fact **I learn new things easily :)**
 
