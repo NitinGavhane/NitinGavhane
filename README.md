@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Gavhane</h1>
 <h3 align="center">IT Engineer | Security Researcher from India</h3>
 
-<iframe src="https://giphy.com/embed/v4NTKF4egO82ISOYJk" width="480" height="206" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/v4NTKF4egO82ISOYJk">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/v4NTKF4egO82ISOYJk" width="480" height="206" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitingavhane&label=Profile%20views&color=0e75b6&style=flat" alt="nitingavhane" /> </p>
 
