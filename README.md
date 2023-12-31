@@ -65,9 +65,13 @@
 - **Hall of Fame**
   - Recognized in the Hall of Fame by renowned organizations including Under Armour, TripAdvisor, Indeed, Dell, Mastercard, Cloudways, and Etsy for exceptional contributions in identifying vulnerabilities and bugs.
 
-<div style="display: flex; justify-content: center; align-items: center; border-radius: 10px; overflow: hidden;">
-  <img src="https://github.com/NitinGavhane/NitinGavhane/assets/51412436/f6a39634-8afa-4132-a432-59e8807a5012" alt="image" style="border-radius: 10px; width: 100%; height: auto;" />
-</div>
+<a href="https://bugcrowd.com/NitinGavhane" target="_blank" rel="noopener noreferrer">
+  <div style="display: flex; justify-content: center; align-items: center; border-radius: 10px; overflow: hidden;">
+    <img src="https://github.com/NitinGavhane/NitinGavhane/assets/51412436/f6a39634-8afa-4132-a432-59e8807a5012" alt="image" style="border-radius: 10px; width: 300px; height: auto;" />
+  </div>
+</a>
+
+
 
 
 
