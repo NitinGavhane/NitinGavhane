@@ -55,7 +55,7 @@
    - Leveraged Firebase for scalable, real-time data storage, enhancing overall application reliability.
 
 3. **Bank Management System**
-   - *September 2022*
+   - *September 2024*
    - Developed a robust Banking Management System using Java, JDBC, and MySQL technologies.
    - Implemented key features, including deposit and withdrawal functionalities, customer management, account creation, and overall account administration.
    - Ensured seamless data flow and interaction through JDBC, optimizing the efficiency of customer transactions and account management.
