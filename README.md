@@ -92,14 +92,6 @@
 </span>
 
 <span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/security/security-original.svg" alt="Cyber Security" width="20" height="20" />
-</span>
-
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/web/web-original.svg" alt="Web Development" width="20" height="20" />
-</span>
-
-<span style="display: inline-block; margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Development" width="20" height="20" />
 </span>
 
