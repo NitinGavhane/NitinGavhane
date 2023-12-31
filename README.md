@@ -61,46 +61,79 @@
 - **Hall of Fame**
   - Recognized in the Hall of Fame by renowned organizations including Under Armour, TripAdvisor, Indeed, Dell, Mastercard, Cloudways, and Etsy for exceptional contributions in identifying vulnerabilities and bugs.
 
-📫 **CONNECT WITH ME**
 
-- [Twitter](https://twitter.com/nitingavhane_)
-- [LinkedIn](https://linkedin.com/in/nitinsgavhane)
-- [Instagram](https://instagram.com/nitin.bug)
-- [Medium](https://medium.com/@nitinsgavane)
-- [HackerRank](https://www.hackerrank.com/nitingavhane_)
 
 🛠️ **Languages and Tools**
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20" />
-  </span>
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20" />
+</span>
 
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20" />
-  </span>
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20" />
+</span>
 
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="20" height="20" />
-  </span>
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="20" height="20" />
+</span>
 
-  <!-- Add the rest of the icons using the same pattern -->
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="20" height="20" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="20" height="20" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/security/security-original.svg" alt="Cyber Security" width="20" height="20" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/web/web-original.svg" alt="Web Development" width="20" height="20" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Development" width="20" height="20" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="20" height="20" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg" alt="Software Testing" width="20" height="20" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20" />
+</span>
 
 </div>
 
 
 
-
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitingavhane&show_icons=true&locale=en&layout=compact" alt="nitingavhane" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitingavhane&show_icons=true&locale=en" alt="nitingavhane" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitingavhane&" alt="nitingavhane" />
+<h3 align="left">📫 CONNECT WITH ME:</h3>
+<p align="left">
+  <a href="https://twitter.com/nitingavhane_" target="_blank" title="Twitter">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/nitinsgavhane" target="_blank" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/nitin.bug" target="_blank" title="Instagram">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@nitinsgavane" target="_blank" title="Medium">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/nitingavhane_" target="_blank" title="HackerRank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
 </p>
