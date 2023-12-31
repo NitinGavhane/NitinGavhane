@@ -24,7 +24,10 @@
 
 👨‍💻 **WORK EXPERIENCE**
 
-**Maveric Systems Limited**  
+**Maveric Systems Limited**  <a href="https://www.maveric-systems.com/" target="_blank" title="Maveric Systems Limited">
+  <img src="https://example.com/maveric-logo.png" alt="Maveric Systems Limited" height="50" width="50" style="margin-right: 15px;" />
+</a>
+
 *August 2023 — Present*  
 *Graduate Software Development Engineer (SDE) - Full Time*  
 *Pune, Maharashtra*
