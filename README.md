@@ -83,42 +83,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="20" height="20" />
 </span>
 
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20" />
-</span>
-
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="20" height="20" />
-</span>
-
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="20" height="20" />
-</span>
-
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/security/security-original.svg" alt="Cyber Security" width="20" height="20" />
-</span>
-
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/web/web-original.svg" alt="Web Development" width="20" height="20" />
-</span>
-
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Development" width="20" height="20" />
-</span>
-
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="20" height="20" />
-</span>
-
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg" alt="Software Testing" width="20" height="20" />
-</span>
-
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20" />
-</span>
-
 
 
 
