@@ -64,23 +64,12 @@
 
 - **Hall of Fame**
   - Recognized in the Hall of Fame by renowned organizations including Under Armour, TripAdvisor, Indeed, Dell, Mastercard, Cloudways, and Etsy for exceptional contributions in identifying vulnerabilities and bugs.
-  <div style="display: flex; gap: 10px;">
 
-  <img src="url_to_under_armour_logo" alt="Under Armour" width="50" height="50" />
-  
-  <img src="url_to_tripadvisor_logo" alt="TripAdvisor" width="50" height="50" />
-  
-  <img src="url_to_indeed_logo" alt="Indeed" width="50" height="50" />
-  
-  <img src="url_to_dell_logo" alt="Dell" width="50" height="50" />
-  
-  <img src="url_to_mastercard_logo" alt="Mastercard" width="50" height="50" />
-  
-  <img src="url_to_cloudways_logo" alt="Cloudways" width="50" height="50" />
-  
-  <img src="url_to_etsy_logo" alt="Etsy" width="50" height="50" />
-
+<div style="display: flex; justify-content: center; align-items: center; border-radius: 10px; overflow: hidden;">
+  <img src="https://github.com/NitinGavhane/NitinGavhane/assets/51412436/f6a39634-8afa-4132-a432-59e8807a5012" alt="image" style="border-radius: 10px; width: 100%; height: auto;" />
 </div>
+
+
 
 
 </br>
