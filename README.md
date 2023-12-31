@@ -10,6 +10,8 @@
   </a>
 </p>
 
+</br>
+
 🚀 **SKILLS**
 
 - **Programming:** Java, Python, SQL, C++, HTML, CSS.
@@ -32,7 +34,7 @@
 - Gaining proficiency in frontend development through hands-on experience with both Angular and React, with a focus on creating intuitive and engaging web interfaces.
   
 - Embracing DevOps methodologies to enhance the software development lifecycle, incorporating practices such as continuous integration, continuous delivery, and containerization.
-
+</br>
 🛠️ **PROJECTS**
 
 1. **TimeKeeper Application**
@@ -55,14 +57,14 @@
    - Implemented key features, including deposit and withdrawal functionalities, customer management, account creation, and overall account administration.
    - Ensured seamless data flow and interaction through JDBC, optimizing the efficiency of customer transactions and account management.
    - Delivered a comprehensive solution streamlining banking operations, emphasizing user-friendly interfaces and secure database management.
-
+</br>
 🏆 **ACHIEVEMENTS**
 
 - **Hall of Fame**
   - Recognized in the Hall of Fame by renowned organizations including Under Armour, TripAdvisor, Indeed, Dell, Mastercard, Cloudways, and Etsy for exceptional contributions in identifying vulnerabilities and bugs.
 
 
-
+</br>
 🛠️ **Languages and Tools**
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -109,7 +111,7 @@
 
 </div>
 
-
+</br>
 📫 **CONNECT WITH ME:**
 <h3 align="left"></h3>
 <p align="left">
