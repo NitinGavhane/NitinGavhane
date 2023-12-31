@@ -69,19 +69,26 @@
 - [Medium](https://medium.com/@nitinsgavane)
 - [HackerRank](https://www.hackerrank.com/nitingavhane_)
 
-🛠️ **LANGUAGES AND TOOLS**
+🛠️ **Languages and Tools**
 
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20" />
-</span>
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20" />
-</span>
+  <span style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20" />
+  </span>
 
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="20" height="20" />
-</span>
+  <span style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20" />
+  </span>
+
+  <span style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="20" height="20" />
+  </span>
+
+  <!-- Add the rest of the icons using the same pattern -->
+
+</div>
+
 
 
 
