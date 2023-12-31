@@ -10,57 +10,70 @@
   </a>
 </p>
 
-- 👯 I made a project on [TimeKeeper - Android Based Application](https://github.com/NitinGavhane/Diploma-Projects)
+🚀 **SKILLS**
 
-- 🌱 I’m currently learning **Java, OOP, DSA**
+- **Programming:** Java, Python, SQL, C++, HTML, CSS.
+  
+- **Tools & Technologies:** Cyber Security, Web Development, Android Development, AWS, Software Testing, Git.
+  
+- **Soft Skills:** Leadership, Active Listener, Event Management, Writing documents, Reading.
 
-- 🔭 I’m currently working on **Trinity College Projects**
+👨‍💻 **WORK EXPERIENCE**
 
-- 🤝 I’m looking for help with **Final Year Project**
+**Maveric Systems Limited**  
+*August 2023 — Present*  
+*Graduate Software Development Engineer (SDE) - Full Time*  
+*Pune, Maharashtra*
 
-- 👨‍💻 All of my projects are available [here](https://devfolio.co/@Nitingavhane)
+- Engaged in an immersive training program focused on honing skills in Java, Spring Boot, Angular, React, and DevOps technologies within the BankTech domain.
+  
+- Applying Java programming principles, best practices, and design patterns to craft resilient and efficient software solutions.
+  
+- Gaining proficiency in frontend development through hands-on experience with both Angular and React, with a focus on creating intuitive and engaging web interfaces.
+  
+- Embracing DevOps methodologies to enhance the software development lifecycle, incorporating practices such as continuous integration, continuous delivery, and containerization.
 
-- 💬 Ask me about **Cyber Security**
+🛠️ **PROJECTS**
 
-- 📫 How to reach me: **gavhanenitin911@gmail.com**
+1. **TimeKeeper Application**
+   - *February 2023*
+   - Engineered an Android application using Java, XML, and Firebase database to efficiently manage and remind users of tasks.
+   - Crafted a user-friendly interface for marking events as public or private, enabling reminders for various occasions such as meetings, events, or personal tasks.
+   - Employed Java programming to enhance the application’s functionality, ensuring seamless event tracking.
+   - Integrated Firebase database for real-time data storage, facilitating access to event details across multiple devices while maintaining consistency and reliability.
 
-- 📄 Know about my experiences [Resume-Nitin-Gavhane.pdf](https://github.com/NitinGavhane/Resume/blob/main/Resume-Nitin-Gavhane.pdf)
+2. **RecruitMe Android App**
+   - *December 2022*
+   - Orchestrated the development of an Android application serving students, TPOs, and companies.
+   - Engineered a user-friendly interface with CRUD functionality tailored for TPOs, simplifying campus recruitment management.
+   - Utilized Java for advanced features, ensuring seamless communication for the recruitment process.
+   - Leveraged Firebase for scalable, real-time data storage, enhancing overall application reliability.
 
-- ⚡ Fun fact: **I learn new things easily :)**
+3. **Bank Management System**
+   - *September 2022*
+   - Developed a robust Banking Management System using Java, JDBC, and MySQL technologies.
+   - Implemented key features, including deposit and withdrawal functionalities, customer management, account creation, and overall account administration.
+   - Ensured seamless data flow and interaction through JDBC, optimizing the efficiency of customer transactions and account management.
+   - Delivered a comprehensive solution streamlining banking operations, emphasizing user-friendly interfaces and secure database management.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+🏆 **ACHIEVEMENTS**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/nitingavhane_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitingavhane_" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/nitinsgavhane" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitinsgavhane" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/nitin.bug" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitin.bug" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@nitinsgavane" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nitinsgavane" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/nitingavhane_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nitingavhane_" height="30" width="40" />
-  </a>
-</p>
+- **Hall of Fame**
+  - Recognized in the Hall of Fame by renowned organizations including Under Armour, TripAdvisor, Indeed, Dell, Mastercard, Cloudways, and Etsy for exceptional contributions in identifying vulnerabilities and bugs.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <!-- Add more languages and tools icons as needed -->
-</p>
+📫 **CONNECT WITH ME**
+
+- [Twitter](https://twitter.com/nitingavhane_)
+- [LinkedIn](https://linkedin.com/in/nitinsgavhane)
+- [Instagram](https://instagram.com/nitin.bug)
+- [Medium](https://medium.com/@nitinsgavane)
+- [HackerRank](https://www.hackerrank.com/nitingavhane_)
+
+🛠️ **LANGUAGES AND TOOLS**
+
+![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)
+![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+<!-- Add more languages and tools icons as needed -->
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitingavhane&show_icons=true&locale=en&layout=compact" alt="nitingavhane" />
@@ -73,4 +86,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitingavhane&" alt="nitingavhane" />
 </p>
-
