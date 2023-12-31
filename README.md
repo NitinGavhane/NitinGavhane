@@ -71,9 +71,21 @@
 
 🛠️ **LANGUAGES AND TOOLS**
 
-![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)
+🛠️ **LANGUAGES AND TOOLS**
+
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
 ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-<!-- Add more languages and tools icons as needed -->
+![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+![Cyber Security](https://raw.githubusercontent.com/devicons/devicon/master/icons/security/security-original.svg)
+![Web Development](https://raw.githubusercontent.com/devicons/devicon/master/icons/web/web-original.svg)
+![Android Development](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg)
+![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg)
+![Software Testing](https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg)
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
+
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitingavhane&show_icons=true&locale=en&layout=compact" alt="nitingavhane" />
