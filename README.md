@@ -10,9 +10,8 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/nitinsgavhane/" target="blank">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="nitinsgavhane" />
   </a>
 </p>
 
