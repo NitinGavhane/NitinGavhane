@@ -6,15 +6,16 @@
 
 <p align="left">
   <a href="https://twitter.com/nitingavhane_" target="blank">
-    <img src="https://img.shields.io/twitter/follow/nitingavhane_?logo=twitter&style=for-the-badge" alt="nitingavhane_" />
+    <img src="https://img.shields.io/twitter/follow/nitingavhane_?logo=twitter&style=for-the-badge&labelColor=black&logoColor=white" alt="nitingavhane_" style="border-radius: 10px;"/>
   </a>
 </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nitinsgavhane/" target="blank">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=nitinsgavhane" alt="nitinsgavhane" />
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=black&logoColor=white" alt="nitinsgavhane" style="border-radius: 10px;"/>
   </a>
 </p>
+
 
 
 </br>
