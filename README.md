@@ -14,7 +14,7 @@
 
 🚀 **SKILLS**
 
-- **Programming:** Java, Python, SQL, C++, HTML, CSS.
+- **Programming:** Java, Python, SQL, Angular, React, UI.
   
 - **Tools & Technologies:** Cyber Security, Web Development, Android Development, AWS, Software Testing, Git.
   
