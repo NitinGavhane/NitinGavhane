@@ -73,15 +73,15 @@
 
 - **Hall of Fame**
   - Recognized in the Hall of Fame by renowned organizations including Under Armour, TripAdvisor, Indeed, Dell, Mastercard, Cloudways, and Etsy for exceptional contributions in identifying vulnerabilities and bugs.
-  - Reported over 1000+ security issues to top organizations
-  - Ranked among the top 800 security researchers worldwide
-  - Delivered over 20+ project solutions over a period of 2 years
-  - Generated over ₹2m in revenue through innovation via individual effort and freelancing of either service and/or solutions
-  - Delivered industry-wide transformation benefits across key metrics such as:
-     - 20% Improvement in organization projects
-     - 10% Improvement in Average Handling Clients
-     - 90% Reduction in Project Code Errors
-  - Delivered proprietary solutions at an organizational level with a team size of about 20,000+
+- Reported over 1000+ security issues to top organizations
+- Ranked among the top 800 security researchers worldwide
+- Delivered over 20+ project solutions over a period of 2 years
+- Generated over ₹2m in revenue through innovation via individual effort and freelancing of either service and/or solutions
+- Delivered industry-wide transformation benefits across key metrics such as:
+    - 20% Improvement in organization projects
+    - 10% Improvement in Average Handling Clients
+    - 90% Reduction in Project Code Errors
+- Delivered proprietary solutions at an organizational level with a team size of about 20,000+
 
 <a href="https://bugcrowd.com/NitinGavhane" target="_blank" rel="noopener noreferrer">
   <div style="display: flex; justify-content: center; align-items: center; border-radius: 10px; overflow: hidden;">
