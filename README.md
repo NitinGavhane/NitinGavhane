@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nitinsgavhane/" target="blank">
-   <img src="https://img.shields.io/badge/Connect?style=for-the-badge&logo=linkedin&labelColor=black&logoColor=white" alt="nitinsgavhane" style="border-radius: 10px;"/>
+   <img src="https://img.shields.io/badge/Connect-linkdin?style=for-the-badge&logo=linkedin&labelColor=black&logoColor=white" alt="nitinsgavhane" style="border-radius: 10px;"/>
   </a>
 </p>
 
