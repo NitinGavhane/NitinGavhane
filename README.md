@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="https://twitter.com/nitingavhane_" target="blank">
-    <img src="https://img.shields.io/twitter/follow/nitingavhane_?logo=twitter&style=for-the-badge&labelColor=black&logoColor=white" alt="nitingavhane_" style="border-radius: 10px;"/>
+    <img src="https://img.shields.io/twitter/follow/nitingavhane_?logo=twitter&style=for-the-badge" alt="nitingavhane_" />
   </a>
 </p>
 
