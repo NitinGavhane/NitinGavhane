@@ -1,6 +1,6 @@
 ![image](https://github.com/NitinGavhane/NitinGavhane/assets/51412436/62054987-3bcf-4213-bf60-e82d2d26acab)
 
-<div id="badges" align="center">
+<div id="badges" align="center" gap="5px">
   <a href="https://linkedin.com/in/nitinsgavhane">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
