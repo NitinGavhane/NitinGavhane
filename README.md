@@ -1,5 +1,14 @@
 ![image](https://github.com/NitinGavhane/NitinGavhane/assets/51412436/62054987-3bcf-4213-bf60-e82d2d26acab)
 
+<div id="badges">
+  <a href="https://linkedin.com/in/nitinsgavhane">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/nitingavhane_">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nitingavhane&label=Profile%20views&color=0e75b6&style=flat" alt="nitingavhane" />
 </p>
