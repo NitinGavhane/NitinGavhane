@@ -3,13 +3,13 @@
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/nitinsgavhane">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> &nbsp;
+  </a>
   <a href="https://twitter.com/nitingavhane_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> &nbsp;
+  </a>
   <a href="https://www.instagram.com/nitin.bug">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a> &nbsp;
+  </a>
     <a href="https://medium.com/@nitinsgavane">
     <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
@@ -129,13 +129,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Development" width="20" height="20" />
 </span>
 
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="20" height="20" />
-</span>
-
-<span style="display: inline-block; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg" alt="Software Testing" width="20" height="20" />
-</span>
 
 <span style="display: inline-block; margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20" />
