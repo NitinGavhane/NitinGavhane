@@ -1,10 +1,12 @@
 ![image](https://github.com/NitinGavhane/NitinGavhane/assets/51412436/62054987-3bcf-4213-bf60-e82d2d26acab)
 
-<a href="#"><img src="https://camo.githubusercontent.com/599d0140eb9429b9bcc7f199e90844152b54ecd5841ec3e459ba8a785f12209f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6874722d746563683f7374796c653d736f6369616c266c6162656c3d666f6c6c6f77" data-canonical-src="https://img.shields.io/github/followers/htr-tech?style=social&amp;label=follow" style="max-width: 100%;"></a>
+<div style="display: flex;">
+  <a href="#"><img src="https://camo.githubusercontent.com/599d0140eb9429b9bcc7f199e90844152b54ecd5841ec3e459ba8a785f12209f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6874722d746563683f7374796c653d736f6369616c266c6162656c3d666f6c6c6f77" data-canonical-src="https://img.shields.io/github/followers/htr-tech?style=social&amp;label=follow" style="max-width: 100%;"></a>
 
-<a href="#"><img src="https://camo.githubusercontent.com/1b51fe9024d9247ef4e24907488d02510c0ee6649c53aa37d070b249b50a3e27/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6874722d746563683f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/github/stars/htr-tech?style=social" style="max-width: 100%;"></a>
+  <a href="#"><img src="https://camo.githubusercontent.com/1b51fe9024d9247ef4e24907488d02510c0ee6649c53aa37d070b249b50a3e27/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6874722d746563683f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/github/stars/htr-tech?style=social" style="max-width: 100%;"></a>
 
-<a href="#"><img src="https://camo.githubusercontent.com/109a8a6392760aee00330cbee30ef9c94b411a68bf5ef781a74739912ec777e1/68747470733a2f2f686974732e736565796f756661726d2e636f6d2f6170692f636f756e742f696e63722f62616467652e7376673f75726c3d68747470732533412532462532466769746875622e636f6d2532466874722d74656368267469746c653d56697369746f727326636f756e745f62673d253233303037334542" data-canonical-src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech&amp;title=Visitors&amp;count_bg=%230073EB" style="max-width: 100%;"></a>
+  <a href="#"><img src="https://camo.githubusercontent.com/109a8a6392760aee00330cbee30ef9c94b411a68bf5ef781a74739912ec777e1/68747470733a2f2f686974732e736565796f756661726d2e636f6d2f6170692f636f756e742f696e63722f62616467652e7376673f75726c3d68747470732533412532462532466769746875622e636f6d2532466874722d74656368267469746c653d56697369746f727326636f756e745f62673d253233303037334542" data-canonical-src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech&amp;title=Visitors&amp;count_bg=%230073EB" style="max-width: 100%;"></a>
+</div>
 
 
 
