@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=nitingavhane&label=Profile%20views&color=0e75b6&style=flat" alt="nitingavhane" />
   </p>
 
-  <p align="center">
+  <p align="center-top">
     <a href="https://twitter.com/nitingavhane_" target="blank">
       <img src="https://img.shields.io/twitter/follow/nitingavhane_?logo=twitter&style=for-the-badge" alt="nitingavhane_" />
     </a>
