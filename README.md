@@ -1,6 +1,6 @@
 ![image](https://github.com/NitinGavhane/NitinGavhane/assets/51412436/62054987-3bcf-4213-bf60-e82d2d26acab)
 
-<div id="badges" align="center" gap="5px">
+<div id="badges" align="center">
   <a href="https://linkedin.com/in/nitinsgavhane">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> &nbsp;
@@ -9,6 +9,9 @@
   </a> &nbsp;
   <a href="https://www.instagram.com/nitin.bug">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+    <a href="https://medium.com/@nitinsgavane">
+    <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
 
