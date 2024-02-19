@@ -3,18 +3,15 @@
 <div id="badges" align="center" gap="5px">
   <a href="https://linkedin.com/in/nitinsgavhane">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> &nbsp;
   <a href="https://twitter.com/nitingavhane_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> &nbsp;
   <a href="https://www.instagram.com/nitin.bug">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nitingavhane&label=Profile%20views&color=0e75b6&style=flat" alt="nitingavhane" />
-</p>
 
 
 
