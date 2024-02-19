@@ -17,6 +17,27 @@
 </p>
 
 
+<div style="display: flex; align-items: center;">
+  <!-- Twitter -->
+  <a href="https://twitter.com/nitingavhane_" title="Twitter" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" style="width: 24px; height: 24px; margin-right: 10px;">
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/nitinsgavhane/" title="LinkedIn" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="width: 24px; height: 24px; margin-right: 10px;">
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/nitingavhane" title="GitHub" target="_blank">
+    <img src="https://img.icons8.com/material-rounded/48/000000/github.png" alt="GitHub" style="width: 24px; height: 24px; margin-right: 10px;">
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/nitingavhane_" title="Instagram" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="width: 24px; height: 24px; margin-right: 10px;">
+  </a>
+</div>
+
+
+
 
 
 </br>
