@@ -1,5 +1,9 @@
 ![image](https://github.com/NitinGavhane/NitinGavhane/assets/51412436/62054987-3bcf-4213-bf60-e82d2d26acab)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=38BCBA&center=true&vCenter=true&width=435&lines=Angular+%7C+React+%7C+Node.js;OWASP+%7C+DevSecOps+%7C+Security;Hall+of+Fame+Security+Researcher" alt="Typing SVG" />
+</p>
+
 # Hi there, I'm Nitin Gavhane! 👋
 
 [![Email](https://img.shields.io/badge/Email-nitin.gavhane.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nitin.gavhane.dev@gmail.com)
