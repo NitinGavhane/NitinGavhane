@@ -1,7 +1,11 @@
 ![image](https://github.com/NitinGavhane/NitinGavhane/assets/51412436/62054987-3bcf-4213-bf60-e82d2d26acab)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NitinGavhane/NitinGavhane/main/assets/banner.png" alt="Nitin Gavhane - Security-Focused Developer" />
+  
+  ![Security](https://img.shields.io/badge/Security-Focused-important) 
+  ![Full Stack](https://img.shields.io/badge/Full_Stack-Developer-success)
+  ![AppSec](https://img.shields.io/badge/Application_Security-Expert-blueviolet)
+  
 </p>
 
 # Hi there, I'm Nitin Gavhane! 👋
