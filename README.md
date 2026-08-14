@@ -5,10 +5,20 @@
 
 [![Email](https://img.shields.io/badge/Email-nitin.gavhane.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nitin.gavhane.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitin_Gavhane-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitinsgavhane)
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-1DA1F2?style=flat)](https://nitingavhane.dev)
-[![Hall of Fame](https://img.shields.io/badge/🏆-Hall_of_Fame-FFD700?style=flat)]()
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-1DA1F2?style=flat)](https://nitingavhane.com)
+[![Medium](https://img.shields.io/badge/Medium-Blog-000000?style=flat&logo=medium&logoColor=white)](https://nitingavhane.medium.com/)
+[![Hall of Fame](https://img.shields.io/badge/🏆-Hall_of_Fame-FFD700?style=flat)](https://bugcrowd.com/NitinGavhane)
 
-**Security-Focused Full Stack Developer** with 2+ years of experience building secure, scalable web applications. Passionate about Application Security, DevSecOps, and Open-Source Contribution.
+**Full-Stack Developer, Security Researcher & Tech Consultant** with 2+ years of experience shipping secure, scalable web applications. I partner with companies to build high-performance products, harden their security posture, and make smarter technology decisions.
+
+---
+
+## 🧰 What I Do
+
+- **Web Application Development** — High-performance, secure web apps, from SaaS platforms and workflow automation to customer-facing products at scale.
+- **Quality Assurance & Security Auditing** — Backed by 1000+ vulnerabilities disclosed to Dell, Mastercard, and more; QA and security auditing that makes your app robust and audit-ready.
+- **Technical Writing & Content** — Clear documentation, developer guides, and thought-leadership articles — including a published *Angular Developer's Handbook*.
+- **Strategic Tech Consulting** — Architecture reviews, vendor selection, engineering roadmaps, and delivery risk management.
 
 ---
 
@@ -57,28 +67,28 @@
 
 ## 🚀 Projects
 
-### [Portfolio Website](https://nitingavhane.dev) | [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/NitinGavhane/portfolio)
-- Built with **React, TypeScript, and Tailwind CSS**
-- Features **theme toggle, blog with audio, and meeting scheduler**
-- Achieved **1s load time** with full mobile responsiveness
+### [Portfolio Website](https://nitin-gavhane-dev.vercel.app/) | [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/NitinGavhane/Portfolio)
+- Modern, interactive portfolio built with **React, TypeScript, and Tailwind CSS**
+- Features **theme toggle, blog with audio, eBooks, and meeting scheduler**
 
-### [SNAPI - Test Automation Tool](https://github.com/NitinGavhane/snapi) 
-- Developed Angular-based UI components improving modularity by **20%**
-- Optimized API integration reducing response time by **25%**
-- Conducted security validations (XSS, CSRF) following OWASP guidelines
+### [DailyStory](https://daily-story.vercel.app/) | [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/NitinGavhane/DailyStory)
+- Capture and preserve your daily experiences in beautiful stories — private or shared with the world
+
+### [nitin](https://nitin.vercel.app/) | [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/NitinGavhane/nitin)
+- Terminal-inspired personal site with a typewriter effect — minimal, fast, and memorable
 
 ---
 
 ## 🏆 Achievements
-  - Recognized in the Hall of Fame by renowned organizations including Under Armour, TripAdvisor, Indeed, Dell, Mastercard, Cloudways, and Etsy for exceptional contributions in identifying vulnerabilities and bugs.
-- Reported over 1000+ security issues to top organizations
-- Ranked among the top 800 security researchers worldwide
-- Delivered over 20+ project solutions over a period of 2 years
-- Generated over ₹2m in revenue through innovation via individual effort and freelancing of either service and/or solutions
-- Delivered industry-wide transformation benefits across key metrics such as:
-    - 20% Improvement in organization projects
-    - 10% Improvement in Average Handling Clients
-    - 90% Reduction in Project Code Errors
+- Reported over **1000+ security issues** on the [Bugcrowd platform](https://bugcrowd.com/NitinGavhane)
+- Recognized in the **Hall of Fame** by renowned organizations including Under Armour, TripAdvisor, Indeed, Dell, Mastercard, Cloudways, and Etsy
+- Ranked among the **top 800 security researchers worldwide**
+- Delivered **20+ project solutions** over 2 years and generated **₹2m+ in revenue** through innovation, service, and freelance work
+- Published author of the **Angular Developer's Handbook** ([Amazon](https://www.amazon.in/Angular-Developers-Handbook-Freelance-Practices-ebook/dp/B0F1M4FRQ9))
+- Delivered industry-wide transformation benefits across key metrics:
+    - 20% improvement in organization projects
+    - 10% improvement in Average Handling Clients
+    - 90% reduction in project code errors
 - Delivered proprietary solutions at an organizational level with a team size of about 20,000+
 ---
 
@@ -106,7 +116,7 @@ I'm always open to discussing **security, development, and collaboration opportu
 
 [![Email](https://img.shields.io/badge/📧-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitin.gavhane.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitinsgavhane)
-[![Portfolio](https://img.shields.io/badge/🌐-Visit_My_Portfolio-1DA1F2?style=for-the-badge)](https://nitingavhane.dev)
+[![Portfolio](https://img.shields.io/badge/🌐-Visit_My_Portfolio-1DA1F2?style=for-the-badge)](https://nitingavhane.com)
 
 ⭐️ From [NitinGavhane](https://github.com/NitinGavhane)
 
